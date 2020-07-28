@@ -21,3 +21,12 @@ Some of the <code>Premium API Enpoints</code> are :
 
 To make a call to the API you have to pass:
 <code>CLIENT ID, CLIENT SECRET</code> and the <code>VERSION</code> of the API to be used.
+
+
+## Visualization
+
+### Before Query
+![](your-loc.jpg)</br></br>
+
+### After Query
+![](venues.jpg)
